@@ -1,4 +1,4 @@
-# SlimefunOreChunks
+# SlimefunOreChunks 矿石块
 
 SlimefunOreChunks 是一个 Slimefun4 附属插件。
 你需要安装 Slimefun4 才能让此插件运行。
