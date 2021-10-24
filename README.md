@@ -1,31 +1,36 @@
 # SlimefunOreChunks
-SlimefunOreChunks is a [Slimefun4](https://github.com/TheBusyBiscuit/Slimefun4/) Addon.<br>
-You need to install Slimefun4 in order for this plugin to work.
 
-SlimefunOreChunks is a Slimefun4 Addon that simply adds new ores to Slimefun's GEO - Miner.
-it adds a new ore for every Slimefun dust, you can turn these ores into dusts using an Ore Crusher.
+SlimefunOreChunks 是一个 Slimefun4 附属插件。
+你需要安装 Slimefun4 才能让此插件运行。
 
-Note that these Ores do not spawn in the actual world, you can only obtain them via the GEO - Miner.
+该附属向GEO矿机添加了新的产物：矿石块。一共有9种矿石块，分别对应着9种Slimefun金属，你可以在矿石粉碎机中粉碎矿石块来获得对应的矿粉。
 
-[Read more...](https://github.com/TheBusyBiscuit/Slimefun4/wiki/SlimefunOreChunks)
+要注意的是，这些矿石并不会自然生成，你只能通过GEO矿机获得它们。
 
-## Download SlimefunOreChunks
-You can download SlimefunOreChunks right here: [Development Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimefunOreChunks/master/)
+## 下载 SlimefunOreChunks
+
+你可以在这里下载SlimefunOreChunks: [下载SlimefunOreChunks](https://builds.guizhanss.net/ybw0014/SlimefunOreChunks-CN/master)
 
 <p align="center">
-  <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimefunOreChunks/master/">
-    <img src="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimefunOreChunks/master/badge.svg" alt="Build Server"/>
+  <a href="https://github.com/ybw0014/SlimefunOreChunks-CN/actions/workflows/maven.yml">
+    <img src="https://github.com/ybw0014/SlimefunOreChunks-CN/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
+  </a>
+
+  <a href="https://builds.guizhanss.net/ybw0014/SlimefunOreChunks-CN/master">
+    <img src="https://builds.guizhanss.net/f/ybw0014/SlimefunOreChunks-CN/master/badge.svg" alt="Build status"/>
   </a>
 </p>
 
 ## Discord
-You can find Slimefun's community on Discord!
-Click the badge down below to join the server for suggestions/questions or other discussions about this plugin.
+
+你可以在Discord上找到Slimefun社区!
+点击下方的图片即可加入我们的服务器。你可以讨论本插件、提问题或给出宝贵的建议。
+
 <p align="center">
   <a href="https://discord.gg/fsD4Bkh">
     <img src="https://img.shields.io/discord/565557184348422174?color=7289DA&label=Discord&style=for-the-badge" alt="Discord Invite"/>
   </a>
 </p>
 
-## Open Source
-This Project is open-source and licensed under the [MIT License](https://github.com/TheBusyBiscuit/SlimefunOreChunks/blob/master/LICENSE)
+## 开源
+本项目以[MIT协议](/LICENSE)开源。
